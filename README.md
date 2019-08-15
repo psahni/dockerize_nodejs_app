@@ -1,13 +1,13 @@
 # How to run
 
-## Install node.js - 10
+### Install node.js - 10
 
-## clone the app
+### clone the app
 
-## npm install
+### npm install
 
-## npm run start
+### npm run start
 
-## Go to http://localhost:9878
+### Go to http://localhost:9878
 
-## '/users' end point - Go to http://localhost:9878/
+## '/users' end point - Go to http://localhost:9878/users
